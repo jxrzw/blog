@@ -1,0 +1,42 @@
+.gbook{
+    background: rgba(255,255,255,0.2);
+    overflow: hidden;
+    /*margin-bottom: 20px;*/
+}
+.gbox{
+    /*padding: 20px;*/
+    overflow: hidden;
+    /*position: relative;*/
+}
+.gbox p{
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+.gbox i{
+    float: left;
+}
+
+p fbtime{
+    color: #fff;
+    font-size: 18px;
+}
+.fbtime span{
+    float: right;
+    color: #fff;
+    font-size: 12px;
+    white-space: nowrap;
+    margin-right: 10px;
+}
+p .fbinfo{
+    margin: 10px 0;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.tnr{
+    width: 90px;
+    float: left;
+    font-size: 20px;
+    color: #000;
+}
